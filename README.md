@@ -1,23 +1,78 @@
-# 🟢 Priyanshu Exploit - Portfolio
+<h1 align="center">Hi 👋, I'm Priyanshu Exploit</h1>
 
-Namaste! Main **Priyanshu Exploit** hoon. Main ek Cybersecurity student aur Ethical Hacker hoon. 🛡️
+<h3 align="center">🛡️ Ethical Hacker | Cybersecurity Student | Class 9 | India 🇮🇳</h3>
 
-## 🔵 Mere Baare Mein
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Ethical+Hacker;Cybersecurity+Learner;Python+Developer;Always+Learning+New+Things" />
+</p>
 
-* **Naam:** Priyanshu
-* **Pehchan:** Ethical Hacker & Cybersecurity Enthusiast
-* **Education:** Class 9th, Maharana Pratap inter college 
-* **Location:** Sultanpur, Uttar Pradesh, India
-* **Website:** [my Official website](https://priyanshu31460014.github.io/exploit/)
-* **X (Twitter):** [Follow me on XTwitter](https://x.com/PriyanshuExploi)
-* **Facebook:** [Follow me on Facebook](https://www.facebook.com/share/1HiSYUSAwT/)
-## 🟠 Cybersecurity Goal
+---
 
-Main cybersecurity ke duniya mein naye concepts aur ethical hacking techniques seekh raha hoon. Mera maqsad internet aur network systems ko secure banana aur digital safety ke baare mein awareness failana hai.
+## 👨‍💻 About Me
 
-## 🔴 Meri Skills
+- 🛡️ Ethical Hacker
+- 🎓 Cybersecurity Student
+- 📚 Class 9 Student
+- 🇮🇳 India
+- 💻 Learning Python, HTML, CSS & JavaScript
+- 🚀 Dream: Become a Professional Cybersecurity Expert
 
-* Ethical Hacking Fundamentals
-* Web Development
-* Network Security Basics
-*ethical Hacker 
+---
+
+## 🚀 Skills
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,linux"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📺 YouTube:
+https://youtube.com/@priyanshuexploit.io9
+
+🐦 Twitter (X):
+https://x.com/priyansh
+
+---
+
+<p align="center">
+
+🔥 Never Stop Learning 🔥
+
+</p>
