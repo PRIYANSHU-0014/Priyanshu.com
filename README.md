@@ -3,7 +3,9 @@
 <h3 align="center">
 💻 Ethical Hacker | 🔐 Cybersecurity Student | 🚀 Future Security Researcher
 </h3>
+# 🛡️ PRIYANSHU EXPLOIT
 
+![Priyanshu Exploit Banner](assets/banner.png)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Ethical+Hacker;Cybersecurity+Student;Bug+Hunter;Always+Learning+New+Things..." />
 </p>
